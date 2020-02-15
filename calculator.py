@@ -1,4 +1,4 @@
-#This application will do basic and advanced calculations
+#This application will do basic and advanced calculations.
 
 print ("Enter the value of A and B\n")
 
