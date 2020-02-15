@@ -5,7 +5,7 @@ print ("Enter the value of A and B\n")
 a, b = map(int, input().split(" "))
 
 print("Select the following options\n")
-print("1. Addition\t 2.Subtraction\n3.Multiplication\t 4.Division\n5.Modulous (Extra Feature)")
+print("1.Addition\t 2.Subtraction\n3.Multiplication\t 4.Division\n5.Modulous (Bonus Feature)")
 value = input()
 
 if(value == '1'):
